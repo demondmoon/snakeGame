@@ -1,2 +1,2 @@
 # snakeGame
-A simple snake game created by Vanilla JavaScript
+A simple snake game created by using Vanilla JavaScript
